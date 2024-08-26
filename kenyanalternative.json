@@ -143,7 +143,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "128979",
+                "playcount": "193882",
                 "trackNumber": 1,
                 "uri": "spotify:track:5wTCpN911fjwZYhnCYzX7k"
               }
@@ -228,7 +228,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "17628",
+                "playcount": "29568",
                 "trackNumber": 1,
                 "uri": "spotify:track:71QA3QXgNuJcSWcnUIN1qy"
               }
@@ -258,9 +258,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "Ethan"
+                          "name": "Kethan"
                         },
-                        "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                        "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                       }
                     ]
                   },
@@ -290,9 +290,9 @@
                   "items": [
                     {
                       "profile": {
-                        "name": "Ethan"
+                        "name": "Kethan"
                       },
-                      "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                      "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                     }
                   ]
                 },
@@ -313,7 +313,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "171753",
+                "playcount": "238075",
                 "trackNumber": 1,
                 "uri": "spotify:track:0zOV2YLP3cSpknApGiIo4H"
               }
@@ -398,7 +398,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "265429",
+                "playcount": "297384",
                 "trackNumber": 2,
                 "uri": "spotify:track:1Za6fp8lIx5052iNdLci82"
               }
@@ -483,7 +483,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "146534",
+                "playcount": "155339",
                 "trackNumber": 5,
                 "uri": "spotify:track:22r8qLzbfjuGNqdyMfKULl"
               }
@@ -568,7 +568,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "94736",
+                "playcount": "111783",
                 "trackNumber": 8,
                 "uri": "spotify:track:0eOX0W5AKuaxOy6gZbEBPI"
               }
@@ -653,7 +653,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "18783",
+                "playcount": "27551",
                 "trackNumber": 2,
                 "uri": "spotify:track:7huX4BF0SJRvf8mJmUyzFW"
               }
@@ -693,17 +693,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02959cae2094070261d8cec5ec",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0250d26be5e2cd8bf84a803934",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851959cae2094070261d8cec5ec",
+                        "url": "https://i.scdn.co/image/ab67616d0000485150d26be5e2cd8bf84a803934",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273959cae2094070261d8cec5ec",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27350d26be5e2cd8bf84a803934",
                         "width": 640
                       }
                     ]
@@ -738,7 +738,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "40553",
+                "playcount": "53714",
                 "trackNumber": 1,
                 "uri": "spotify:track:15YMhMgR7BxWdipR8Y33Oi"
               }
@@ -823,7 +823,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1613",
+                "playcount": "1661",
                 "trackNumber": 1,
                 "uri": "spotify:track:2pVgnnNGpSueFuPzUDtQXs"
               }
@@ -908,7 +908,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "327154",
+                "playcount": "356636",
                 "trackNumber": 3,
                 "uri": "spotify:track:0BZ8a5cWdl7sNwNzHBLZj0"
               }
@@ -993,7 +993,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "66832",
+                "playcount": "77412",
                 "trackNumber": 8,
                 "uri": "spotify:track:73FZLzHHxE5Ip5hzQttxZi"
               }
@@ -1084,7 +1084,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "23617",
+                "playcount": "27980",
                 "trackNumber": 3,
                 "uri": "spotify:track:2FARweBwt6GdxAsOH40La9"
               }
@@ -1181,7 +1181,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "46862",
+                "playcount": "57283",
                 "trackNumber": 1,
                 "uri": "spotify:track:1PfbJNTVJw6zSuyqJvf14J"
               }
@@ -1278,7 +1278,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "18532",
+                "playcount": "19684",
                 "trackNumber": 14,
                 "uri": "spotify:track:3n1X0Ej7DxCVQQqoPd8GYV"
               }
@@ -1369,7 +1369,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "174528",
+                "playcount": "261069",
                 "trackNumber": 1,
                 "uri": "spotify:track:1OelLLNoOJNYnukzOPYSct"
               }
@@ -1454,7 +1454,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "17165",
+                "playcount": "20852",
                 "trackNumber": 1,
                 "uri": "spotify:track:4kHKic91jzEObqoLgYzROV"
               }
@@ -1484,9 +1484,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "Ethan"
+                          "name": "Kethan"
                         },
-                        "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                        "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                       }
                     ]
                   },
@@ -1516,9 +1516,9 @@
                   "items": [
                     {
                       "profile": {
-                        "name": "Ethan"
+                        "name": "Kethan"
                       },
-                      "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                      "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                     }
                   ]
                 },
@@ -1539,7 +1539,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "111152",
+                "playcount": "120855",
                 "trackNumber": 1,
                 "uri": "spotify:track:7I0gVer3b94T9aoRSRqGEw"
               }
@@ -1636,7 +1636,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "107857",
+                "playcount": "135122",
                 "trackNumber": 1,
                 "uri": "spotify:track:1MFQlFkhYBwtjpIIfpEpsM"
               }
@@ -1721,7 +1721,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "26677",
+                "playcount": "49419",
                 "trackNumber": 1,
                 "uri": "spotify:track:6DXRuErErntN421fotfSY4"
               }
@@ -1806,7 +1806,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "36280",
+                "playcount": "39136",
                 "trackNumber": 3,
                 "uri": "spotify:track:2OLsqgoxmmEQTrnwY72LHA"
               }
@@ -1897,7 +1897,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "16595",
+                "playcount": "24407",
                 "trackNumber": 4,
                 "uri": "spotify:track:6DywLDHN945BpPggycAYYW"
               }
@@ -1994,7 +1994,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "124370",
+                "playcount": "174948",
                 "trackNumber": 1,
                 "uri": "spotify:track:1bHbElmOOzqRNui7Ocq4Vp"
               }
@@ -2085,7 +2085,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "4153695",
+                "playcount": "5238584",
                 "trackNumber": 3,
                 "uri": "spotify:track:3XXemjIqQleJMVtae2Vsb6"
               }
@@ -2182,7 +2182,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "71937",
+                "playcount": "90983",
                 "trackNumber": 1,
                 "uri": "spotify:track:10nhegJWrAZzAYsiaKcyiO"
               }
@@ -2267,7 +2267,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "137704",
+                "playcount": "158181",
                 "trackNumber": 1,
                 "uri": "spotify:track:6zMXZb3NPyuIrJ1lPlWVfd"
               }
@@ -2364,7 +2364,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1349289",
+                "playcount": "1421682",
                 "trackNumber": 3,
                 "uri": "spotify:track:4K5F02hRfBL8m1s0QXs6bO"
               }
@@ -2449,7 +2449,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "19582",
+                "playcount": "21150",
                 "trackNumber": 11,
                 "uri": "spotify:track:2fMLweDd2gTi8hPbih20KX"
               }
@@ -2534,7 +2534,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "30602",
+                "playcount": "34026",
                 "trackNumber": 8,
                 "uri": "spotify:track:78dO6h844YMo4KNEocNuoY"
               }
@@ -2619,7 +2619,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1125122",
+                "playcount": "1556357",
                 "trackNumber": 1,
                 "uri": "spotify:track:21eRcBcsRtuHjL2jSeMu7A"
               }
@@ -2716,7 +2716,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "3080",
+                "playcount": "4351",
                 "trackNumber": 3,
                 "uri": "spotify:track:1gaIhRq5ZIoMedSu0IABNz"
               }
@@ -2746,9 +2746,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "Ethan"
+                          "name": "Kethan"
                         },
-                        "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                        "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                       }
                     ]
                   },
@@ -2778,9 +2778,9 @@
                   "items": [
                     {
                       "profile": {
-                        "name": "Ethan"
+                        "name": "Kethan"
                       },
-                      "uri": "spotify:artist:16VZMbA7y5gwrxNG0q3wC1"
+                      "uri": "spotify:artist:5xpwtUlXeMP8sywThx4tMh"
                     }
                   ]
                 },
@@ -2801,7 +2801,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1107122",
+                "playcount": "1403504",
                 "trackNumber": 4,
                 "uri": "spotify:track:2dBLmn1DGGxKwmCnLICUxz"
               }
@@ -2886,7 +2886,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "51235",
+                "playcount": "52883",
                 "trackNumber": 1,
                 "uri": "spotify:track:277dO6aTPlt9aBGunY04iD"
               }
@@ -2971,7 +2971,7 @@
                   "playable": false,
                   "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "101224",
+                "playcount": "101225",
                 "trackNumber": 8,
                 "uri": "spotify:track:3xOt9gJVYirLyimYnsUEvr"
               }
@@ -3056,7 +3056,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "156293",
+                "playcount": "309977",
                 "trackNumber": 2,
                 "uri": "spotify:track:4vaKIBY9351V0u6bstPpUu"
               }
@@ -3141,7 +3141,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "98137",
+                "playcount": "125879",
                 "trackNumber": 5,
                 "uri": "spotify:track:4Q2C9McEUgWIDxZzhiJrsi"
               }
@@ -3206,6 +3206,12 @@
                         "name": "Dave Ndegwa"
                       },
                       "uri": "spotify:artist:6nVXh7yxozgqt7uWrKqK0k"
+                    },
+                    {
+                      "profile": {
+                        "name": "Prod. by Allan"
+                      },
+                      "uri": "spotify:artist:1HZbU4tx3X3tpmutYVoYFB"
                     }
                   ]
                 },
@@ -3226,7 +3232,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "16330",
+                "playcount": "19050",
                 "trackNumber": 8,
                 "uri": "spotify:track:4jExZYBq8y7LkFvVPSaxtu"
               }
@@ -3311,7 +3317,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1669",
+                "playcount": "1998",
                 "trackNumber": 2,
                 "uri": "spotify:track:79Wvh5FlxL1qgC2o5Oqn0z"
               }
@@ -3396,7 +3402,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2521",
+                "playcount": "2829",
                 "trackNumber": 1,
                 "uri": "spotify:track:11thDQEcQZcTQc4kV5dsCz"
               }
@@ -3436,17 +3442,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d00001e029efa75c730327bf733d843cc",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d000048519efa75c730327bf733d843cc",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739efa75c730327bf733d843cc",
                         "width": 640
                       }
                     ]
@@ -3481,7 +3487,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "47969",
+                "playcount": "53349",
                 "trackNumber": 5,
                 "uri": "spotify:track:3VumexUyyEUG0JX7ZWU0Me"
               }
@@ -3521,17 +3527,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d00001e029efa75c730327bf733d843cc",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d000048519efa75c730327bf733d843cc",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734a0c7ff369c73b3b80d7ce9f",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739efa75c730327bf733d843cc",
                         "width": 640
                       }
                     ]
@@ -3566,7 +3572,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "27144",
+                "playcount": "27923",
                 "trackNumber": 1,
                 "uri": "spotify:track:5ZjSHvBhrzgFFV3AxK1cp5"
               }
@@ -3651,7 +3657,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "141573",
+                "playcount": "300714",
                 "trackNumber": 1,
                 "uri": "spotify:track:5MuDjcSYckT2DmYFtRSPce"
               }
@@ -3736,7 +3742,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "21073",
+                "playcount": "21513",
                 "trackNumber": 1,
                 "uri": "spotify:track:3pEmh34X9EDZWgstVtNoki"
               }
@@ -3912,7 +3918,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "409338",
+                "playcount": "504753",
                 "trackNumber": 1,
                 "uri": "spotify:track:604EBEcVgETlw2yG0qH4Sr"
               }
@@ -3997,7 +4003,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "38454",
+                "playcount": "38997",
                 "trackNumber": 4,
                 "uri": "spotify:track:2oUqHt6WhKih0nmfHhVj3J"
               }
@@ -4179,7 +4185,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "289466",
+                "playcount": "353028",
                 "trackNumber": 1,
                 "uri": "spotify:track:2yMdEGOICut7TC8VrMU1TA"
               }
@@ -4264,7 +4270,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1803",
+                "playcount": "2042",
                 "trackNumber": 1,
                 "uri": "spotify:track:37AdCBQAIQAYc37U3xXjO4"
               }
@@ -4349,7 +4355,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "16245",
+                "playcount": "18541",
                 "trackNumber": 1,
                 "uri": "spotify:track:77faFjUOgUeEbYTSxSp8Ub"
               }
@@ -4389,17 +4395,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02adf211a268769fe84f159fe1",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0279fdf6d557b38e22949657c7",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851adf211a268769fe84f159fe1",
+                        "url": "https://i.scdn.co/image/ab67616d0000485179fdf6d557b38e22949657c7",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273adf211a268769fe84f159fe1",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27379fdf6d557b38e22949657c7",
                         "width": 640
                       }
                     ]
@@ -4434,7 +4440,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "49355",
+                "playcount": "62349",
                 "trackNumber": 7,
                 "uri": "spotify:track:0dd0McSQVC7kxppAEunPQN"
               }
@@ -4525,7 +4531,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "93696",
+                "playcount": "100786",
                 "trackNumber": 3,
                 "uri": "spotify:track:14UFNgoMLPrQ9MXA8NrBBo"
               }
@@ -4616,7 +4622,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "17149",
+                "playcount": "18754",
                 "trackNumber": 2,
                 "uri": "spotify:track:1KdAMVJ3i9CBvh4C96HeWn"
               }
@@ -4701,7 +4707,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "0",
+                "playcount": "1421",
                 "trackNumber": 1,
                 "uri": "spotify:track:6eobGyNYqWAVxG8JuIYbEh"
               }
@@ -4741,17 +4747,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026efe61c2e9db039adfc166fa",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a8722fd6392242b16665243b",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516efe61c2e9db039adfc166fa",
+                        "url": "https://i.scdn.co/image/ab67616d00004851a8722fd6392242b16665243b",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736efe61c2e9db039adfc166fa",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a8722fd6392242b16665243b",
                         "width": 640
                       }
                     ]
@@ -4786,7 +4792,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "324870",
+                "playcount": "403486",
                 "trackNumber": 3,
                 "uri": "spotify:track:2G5EyrYbvXoUIpwqzGLgK1"
               }
@@ -4871,7 +4877,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "25594",
+                "playcount": "29274",
                 "trackNumber": 5,
                 "uri": "spotify:track:2zgjDvC4btrPBHBg1w4QqM"
               }
@@ -4962,7 +4968,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "3173",
+                "playcount": "4210",
                 "trackNumber": 1,
                 "uri": "spotify:track:6uXVZQtPTTWrf1JqG40YKb"
               }
@@ -5047,7 +5053,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "7125",
+                "playcount": "7882",
                 "trackNumber": 1,
                 "uri": "spotify:track:7t56z9S82lwRdqCsArOnZ0"
               }
@@ -5132,7 +5138,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "3367",
+                "playcount": "4289",
                 "trackNumber": 2,
                 "uri": "spotify:track:3qGTDVclyivXlSUyWhf84A"
               }
@@ -5217,7 +5223,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2112",
+                "playcount": "2118",
                 "trackNumber": 1,
                 "uri": "spotify:track:25vXEiVuVUofchDwn58zo3"
               }
@@ -5302,7 +5308,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1292610",
+                "playcount": "1599212",
                 "trackNumber": 1,
                 "uri": "spotify:track:2iujU8DeDK2DQ2rrSKYzbA"
               }
@@ -5393,7 +5399,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "71843",
+                "playcount": "79313",
                 "trackNumber": 2,
                 "uri": "spotify:track:0IxYhLVxCsjKR5Mv5ZWis4"
               }
@@ -5484,7 +5490,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "11437",
+                "playcount": "12235",
                 "trackNumber": 6,
                 "uri": "spotify:track:3MIZkDxOdvoY0lCDrhZ9TZ"
               }
@@ -5569,7 +5575,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "86534",
+                "playcount": "114849",
                 "trackNumber": 11,
                 "uri": "spotify:track:6AfPqQJSZVsNNsNXDBq0Fq"
               }
@@ -5654,7 +5660,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "21757",
+                "playcount": "22739",
                 "trackNumber": 3,
                 "uri": "spotify:track:2dDXkA6w6uq2PIlJwnSfjy"
               }
@@ -5745,7 +5751,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "38259",
+                "playcount": "47850",
                 "trackNumber": 5,
                 "uri": "spotify:track:1EbfHDJHFUVdiRCGbjCGy1"
               }
@@ -5836,7 +5842,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "54875",
+                "playcount": "62178",
                 "trackNumber": 1,
                 "uri": "spotify:track:23QGS3cR9tRLOmJ2iY8pN2"
               }
@@ -5921,7 +5927,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "16423",
+                "playcount": "19355",
                 "trackNumber": 1,
                 "uri": "spotify:track:3oTCklg2zTuc2DuKaVsORp"
               }
@@ -6012,7 +6018,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "9442",
+                "playcount": "10463",
                 "trackNumber": 4,
                 "uri": "spotify:track:5WvqUaYMyQoHhiqFbjBWl3"
               }
@@ -6097,7 +6103,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "161423",
+                "playcount": "225832",
                 "trackNumber": 5,
                 "uri": "spotify:track:47jeYgNLyaN1pBLQrVE6x0"
               }
@@ -6188,7 +6194,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "5012",
+                "playcount": "5625",
                 "trackNumber": 5,
                 "uri": "spotify:track:2HBZEZZlSZSttXjpgBL9yW"
               }
@@ -6285,7 +6291,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2127",
+                "playcount": "2454",
                 "trackNumber": 1,
                 "uri": "spotify:track:5lkPa1l637TWMIpdZh6SnF"
               }
@@ -6370,7 +6376,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2933",
+                "playcount": "3097",
                 "trackNumber": 1,
                 "uri": "spotify:track:2CKOuCtMBESqY8tTCF46t5"
               }
@@ -6461,7 +6467,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "18456",
+                "playcount": "18650",
                 "trackNumber": 1,
                 "uri": "spotify:track:6P6g0bqXsdUTVYicCLZKq9"
               }
@@ -6549,10 +6555,10 @@
                 },
                 "name": "Want You",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "18532",
+                "playcount": "19195",
                 "trackNumber": 1,
                 "uri": "spotify:track:4soHwOdoVbeY0HgXI8K5vS"
               }
@@ -6637,7 +6643,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "62397",
+                "playcount": "67140",
                 "trackNumber": 1,
                 "uri": "spotify:track:1h2je5GFRfhIONQ2T7kwlQ"
               }
@@ -6722,7 +6728,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2061",
+                "playcount": "2339",
                 "trackNumber": 1,
                 "uri": "spotify:track:09erf3kmkKcq38w1H3FDZ3"
               }
@@ -6807,7 +6813,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "7053",
+                "playcount": "11407",
                 "trackNumber": 1,
                 "uri": "spotify:track:6s1kHxl8VOqGzGyYkgNeTE"
               }
@@ -6898,7 +6904,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "3213",
+                "playcount": "3672",
                 "trackNumber": 1,
                 "uri": "spotify:track:0VKju7CrD43rnw1LHmLoS8"
               }
@@ -6980,8 +6986,8 @@
                 },
                 "name": "Owaaye",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
                 "playcount": "0",
                 "trackNumber": 1,
@@ -7068,7 +7074,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "84024",
+                "playcount": "100368",
                 "trackNumber": 1,
                 "uri": "spotify:track:6AbBz0UkcNGtHajOmOyNMc"
               }
@@ -7153,7 +7159,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "44734",
+                "playcount": "52107",
                 "trackNumber": 3,
                 "uri": "spotify:track:2QPI1NfPNoZbwoIgWWNPjz"
               }
@@ -7329,7 +7335,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "611862",
+                "playcount": "647696",
                 "trackNumber": 1,
                 "uri": "spotify:track:7mFvw0Ub6AIMSAWVgZgHzH"
               }
@@ -7369,17 +7375,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02a58aa82b75cd77b54879c7ea",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0212a70a2b7cc4d82d23d83bd0",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851a58aa82b75cd77b54879c7ea",
+                        "url": "https://i.scdn.co/image/ab67616d0000485112a70a2b7cc4d82d23d83bd0",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273a58aa82b75cd77b54879c7ea",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27312a70a2b7cc4d82d23d83bd0",
                         "width": 640
                       }
                     ]
@@ -7417,8 +7423,8 @@
                 },
                 "name": "Utanipenda",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
                 "playcount": "0",
                 "trackNumber": 5,
@@ -7505,7 +7511,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "35183",
+                "playcount": "46842",
                 "trackNumber": 2,
                 "uri": "spotify:track:1LamdMZuoU5rT8uT9T1pGH"
               }
@@ -7684,10 +7690,10 @@
                 },
                 "name": "Sunday Hangover",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "6355",
+                "playcount": "6680",
                 "trackNumber": 4,
                 "uri": "spotify:track:2bSLEepvnoM4FSmrDYD32o"
               }
@@ -7778,7 +7784,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "303320",
+                "playcount": "309024",
                 "trackNumber": 1,
                 "uri": "spotify:track:6FrFrkBIvOW6nZo6pheljP"
               }
@@ -7875,7 +7881,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "119188",
+                "playcount": "122185",
                 "trackNumber": 1,
                 "uri": "spotify:track:5LH9sGAsEtE2ysKdKG7ZRh"
               }
@@ -8045,7 +8051,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "14766",
+                "playcount": "18440",
                 "trackNumber": 1,
                 "uri": "spotify:track:6DnVDkOX2xDLAmjigCQ0qD"
               }
@@ -8130,7 +8136,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2377",
+                "playcount": "2848",
                 "trackNumber": 5,
                 "uri": "spotify:track:7xq7zfWi7iQ1529OB04nsO"
               }
@@ -8170,17 +8176,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02966a88bfd4bef0aa125875ac",
+                        "url": "https://i.scdn.co/image/ab67616d00001e024126b05f546bb762ee9554b1",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851966a88bfd4bef0aa125875ac",
+                        "url": "https://i.scdn.co/image/ab67616d000048514126b05f546bb762ee9554b1",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273966a88bfd4bef0aa125875ac",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734126b05f546bb762ee9554b1",
                         "width": 640
                       }
                     ]
@@ -8215,7 +8221,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "264254",
+                "playcount": "359422",
                 "trackNumber": 1,
                 "uri": "spotify:track:7JO63lzm9CxlxKR26j0Vog"
               }
@@ -8300,7 +8306,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "5868",
+                "playcount": "6696",
                 "trackNumber": 1,
                 "uri": "spotify:track:31wcbX1ryS3piaC3FN4oZI"
               }
@@ -8385,7 +8391,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "58383",
+                "playcount": "74860",
                 "trackNumber": 1,
                 "uri": "spotify:track:7zbQtW2Xb7NADsW6Yw6dIM"
               }
@@ -8470,7 +8476,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "54360",
+                "playcount": "112824",
                 "trackNumber": 4,
                 "uri": "spotify:track:6UZcrzuokSStY50hAG20dX"
               }
@@ -8561,7 +8567,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "32824",
+                "playcount": "46041",
                 "trackNumber": 3,
                 "uri": "spotify:track:4qlhfTcBkuDo7wByAZERiz"
               }
@@ -8646,7 +8652,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "50732",
+                "playcount": "75772",
                 "trackNumber": 1,
                 "uri": "spotify:track:4m77MAmt4yTI5ay15QND13"
               }
@@ -8816,2221 +8822,12 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "9094",
+                "playcount": "10322",
                 "trackNumber": 5,
                 "uri": "spotify:track:2cnyPz9XvxZWlxpzTZH5L5"
               }
             },
             "uid": "5b675d98306d6fea"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "ach13ng'"
-                        },
-                        "uri": "spotify:artist:7nXNiHraAkhLlIMCFaBGc0"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e028bdab2adf847399a43a52118",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048518bdab2adf847399a43a52118",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2738bdab2adf847399a43a52118",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Let Love Lead",
-                  "uri": "spotify:album:10n2U3LkBxKZPceEhK8st6"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "ach13ng'"
-                      },
-                      "uri": "spotify:artist:7nXNiHraAkhLlIMCFaBGc0"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 247500
-                },
-                "name": "Let Love Lead",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "9659",
-                "trackNumber": 1,
-                "uri": "spotify:track:1x0qgZIdOpXmW6bRZfYNtp"
-              }
-            },
-            "uid": "9ff53b728a3c0b73"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Jaydabliu"
-                        },
-                        "uri": "spotify:artist:564Yqrvz8YYhdoiAmdDaOp"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024e087b2db5161d51517020ce",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514e087b2db5161d51517020ce",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734e087b2db5161d51517020ce",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Square One",
-                  "uri": "spotify:album:5Iq1aJsW4A5idFaP9qhPYA"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Jaydabliu"
-                      },
-                      "uri": "spotify:artist:564Yqrvz8YYhdoiAmdDaOp"
-                    },
-                    {
-                      "profile": {
-                        "name": "Lisa Oduor Noah"
-                      },
-                      "uri": "spotify:artist:4TvajrZD4cJdAx2jO4yO5e"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 213333
-                },
-                "name": "Just for a While",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "6595",
-                "trackNumber": 3,
-                "uri": "spotify:track:7aFKMYwhsb40IaenlHpLfi"
-              }
-            },
-            "uid": "f4eeac74cc39c06d"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Jaydabliu"
-                        },
-                        "uri": "spotify:artist:564Yqrvz8YYhdoiAmdDaOp"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024e087b2db5161d51517020ce",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514e087b2db5161d51517020ce",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734e087b2db5161d51517020ce",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Square One",
-                  "uri": "spotify:album:5Iq1aJsW4A5idFaP9qhPYA"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Jaydabliu"
-                      },
-                      "uri": "spotify:artist:564Yqrvz8YYhdoiAmdDaOp"
-                    },
-                    {
-                      "profile": {
-                        "name": "Loa Myst"
-                      },
-                      "uri": "spotify:artist:0F8pxRGIZxs3X2IIOz5yvk"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 176000
-                },
-                "name": "Oh Yea",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "3224",
-                "trackNumber": 2,
-                "uri": "spotify:track:4mGv0MClnYDVDsn0uAq6Yo"
-              }
-            },
-            "uid": "71abeaa351e96fb9"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Njoki Karu"
-                        },
-                        "uri": "spotify:artist:0pGewSIX8FwwBqZLsbDk7F"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02e1c2b69e6a633d501675152d",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851e1c2b69e6a633d501675152d",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273e1c2b69e6a633d501675152d",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Tawasifu Ya Moyo",
-                  "uri": "spotify:album:0BPwyOsMg7lQrdxWoy4YLv"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Njoki Karu"
-                      },
-                      "uri": "spotify:artist:0pGewSIX8FwwBqZLsbDk7F"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 232285
-                },
-                "name": "Sometimes",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "93202",
-                "trackNumber": 4,
-                "uri": "spotify:track:1qOVb7IpU5Mp0vM7HVVA5V"
-              }
-            },
-            "uid": "c03c6804668919f0"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Ivy Alexander"
-                        },
-                        "uri": "spotify:artist:3n2Ix1Ri1yO5kMSXCwJcWs"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e027bf348ced11e93c406d2da37",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048517bf348ced11e93c406d2da37",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2737bf348ced11e93c406d2da37",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Pacha",
-                  "uri": "spotify:album:1Sgx39fPfj66Zq5Z2jk4g8"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Ivy Alexander"
-                      },
-                      "uri": "spotify:artist:3n2Ix1Ri1yO5kMSXCwJcWs"
-                    },
-                    {
-                      "profile": {
-                        "name": "Rodney Barreto"
-                      },
-                      "uri": "spotify:artist:679e1QmyfVD374fm11AhN7"
-                    },
-                    {
-                      "profile": {
-                        "name": "Jax Ravel"
-                      },
-                      "uri": "spotify:artist:1KnoQKt2nVhc9MQZKRIOAu"
-                    },
-                    {
-                      "profile": {
-                        "name": "Manasseh Shalom"
-                      },
-                      "uri": "spotify:artist:0l5DAChk60zrPxl18DGUT7"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 273471
-                },
-                "name": "Pacha",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "2732",
-                "trackNumber": 1,
-                "uri": "spotify:track:58lWozeJc5DQOb2oE9S7TH"
-              }
-            },
-            "uid": "fdcdcca1bf25dd88"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Chemutai Sage"
-                        },
-                        "uri": "spotify:artist:2mP0v7i6JeL8yXPfey97lx"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02f3364763ae71f75a618d3642",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851f3364763ae71f75a618d3642",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273f3364763ae71f75a618d3642",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Oceans",
-                  "uri": "spotify:album:2xhSN6qB5HsKwWUFLUhMyI"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Chemutai Sage"
-                      },
-                      "uri": "spotify:artist:2mP0v7i6JeL8yXPfey97lx"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 195498
-                },
-                "name": "Oceans",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "35823",
-                "trackNumber": 1,
-                "uri": "spotify:track:50eCGnJmjeJU1HfjmcdK2N"
-              }
-            },
-            "uid": "98d375af86e91fab"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Billy Black"
-                        },
-                        "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0240da6b1221b35a301792c52f",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485140da6b1221b35a301792c52f",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27340da6b1221b35a301792c52f",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "From My Heart to Yours",
-                  "uri": "spotify:album:1Fz5l0zrMCuYEwzDoq3lvC"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Billy Black"
-                      },
-                      "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 187036
-                },
-                "name": "Super Human",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "75404",
-                "trackNumber": 1,
-                "uri": "spotify:track:4P7SjFqQOqUS7sTWHaoIxe"
-              }
-            },
-            "uid": "9c53524680277ccf"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Billy Black"
-                        },
-                        "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0240da6b1221b35a301792c52f",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485140da6b1221b35a301792c52f",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27340da6b1221b35a301792c52f",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "From My Heart to Yours",
-                  "uri": "spotify:album:1Fz5l0zrMCuYEwzDoq3lvC"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Billy Black"
-                      },
-                      "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 188551
-                },
-                "name": "We'll Be Okay",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "50474",
-                "trackNumber": 3,
-                "uri": "spotify:track:3hUiiNmzrny4eoko5tyMZH"
-              }
-            },
-            "uid": "e47d9b6e7a8b9e58"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Brandy Maina"
-                        },
-                        "uri": "spotify:artist:7miUm4PxOWQDIPIcqKDfT4"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02c65ac7c9105e3eb2dd9565ca",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851c65ac7c9105e3eb2dd9565ca",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273c65ac7c9105e3eb2dd9565ca",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Loverman (Acoustic)",
-                  "uri": "spotify:album:5Ajbk0U4jDQRtqLDg9OZoB"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Brandy Maina"
-                      },
-                      "uri": "spotify:artist:7miUm4PxOWQDIPIcqKDfT4"
-                    },
-                    {
-                      "profile": {
-                        "name": "Ethan"
-                      },
-                      "uri": "spotify:artist:6ouFdOVHXs3aZV5pwM3JlQ"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 174889
-                },
-                "name": "Loverman - Acoustic",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "274552",
-                "trackNumber": 1,
-                "uri": "spotify:track:6vxwG8RWDOOlyCyxU4l0qP"
-              }
-            },
-            "uid": "4efd01d3b15c1c95"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "SERRO"
-                        },
-                        "uri": "spotify:artist:4r3svQfFw0Ae5GMplY92u9"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02c6c68ca766e6b39fcbf79b27",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851c6c68ca766e6b39fcbf79b27",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273c6c68ca766e6b39fcbf79b27",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Kuwe",
-                  "uri": "spotify:album:0xV4Zm2IC2b9uNh4r0avUY"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "SERRO"
-                      },
-                      "uri": "spotify:artist:4r3svQfFw0Ae5GMplY92u9"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 275294
-                },
-                "name": "Aheri",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "91001",
-                "trackNumber": 2,
-                "uri": "spotify:track:5vEmN5ml5878eDF1vJI1Uc"
-              }
-            },
-            "uid": "9f3010b22c5b15d2"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Nina Ogot"
-                        },
-                        "uri": "spotify:artist:70vJ4IvBtlCutfLNkxqoSu"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026ecea39ae62e9cf8142f3b7c",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516ecea39ae62e9cf8142f3b7c",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736ecea39ae62e9cf8142f3b7c",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Dala",
-                  "uri": "spotify:album:3VS5Z9kjLWEm9oVDOcVBRQ"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Nina Ogot"
-                      },
-                      "uri": "spotify:artist:70vJ4IvBtlCutfLNkxqoSu"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 411378
-                },
-                "name": "Dala",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "247015",
-                "trackNumber": 1,
-                "uri": "spotify:track:1I9h81B8NOrIoOkWdM6xMU"
-              }
-            },
-            "uid": "5e156a32f7b79040"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Halle Bee"
-                        },
-                        "uri": "spotify:artist:26sYHIh4dAFtOGD1LuEEqE"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02bb5944d72682aa1097769447",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851bb5944d72682aa1097769447",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273bb5944d72682aa1097769447",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Mapenzi Hayafiki Bei",
-                  "uri": "spotify:album:0oJmMjOBP6e51m7Lkj1am7"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Halle Bee"
-                      },
-                      "uri": "spotify:artist:26sYHIh4dAFtOGD1LuEEqE"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 248215
-                },
-                "name": "Mapenzi Hayafiki Bei",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "0",
-                "trackNumber": 1,
-                "uri": "spotify:track:76yJ67IYGMFrw2JLfhTY46"
-              }
-            },
-            "uid": "d7ac7c46e5461684"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "EA WAVE"
-                        },
-                        "uri": "spotify:artist:1y2byp2RMLMx9zutltQFUc"
-                      },
-                      {
-                        "profile": {
-                          "name": "Wanja Wohoro"
-                        },
-                        "uri": "spotify:artist:6x42DjzrK28UZZzKsKGvVE"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02f45b77f82922ac6c806a3dd0",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851f45b77f82922ac6c806a3dd0",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273f45b77f82922ac6c806a3dd0",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Honey",
-                  "uri": "spotify:album:4SHL8o57KGGn6I1Qzoop0Q"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "EA WAVE"
-                      },
-                      "uri": "spotify:artist:1y2byp2RMLMx9zutltQFUc"
-                    },
-                    {
-                      "profile": {
-                        "name": "Wanja Wohoro"
-                      },
-                      "uri": "spotify:artist:6x42DjzrK28UZZzKsKGvVE"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 225882
-                },
-                "name": "Honey Bee",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "132842",
-                "trackNumber": 1,
-                "uri": "spotify:track:6Qbl7jIOsRYplqdvuhtapn"
-              }
-            },
-            "uid": "1815b1bb813eab09"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Terrianne Iraki"
-                        },
-                        "uri": "spotify:artist:2IQSH6zp92t5AaGMx2PltM"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026ecc8fbaf9d195d99f7bdf1a",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516ecc8fbaf9d195d99f7bdf1a",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736ecc8fbaf9d195d99f7bdf1a",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Happy With You",
-                  "uri": "spotify:album:54WxulRkSAqH6Q5AHPo8dd"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Terrianne Iraki"
-                      },
-                      "uri": "spotify:artist:2IQSH6zp92t5AaGMx2PltM"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 197198
-                },
-                "name": "Happy With You",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "3605",
-                "trackNumber": 1,
-                "uri": "spotify:track:5Pc7eX8aw0FChXiWPTEbjb"
-              }
-            },
-            "uid": "b28426c285fc5334"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Ayrosh"
-                        },
-                        "uri": "spotify:artist:3eUpzhdVQkVaAKWn09Ka8l"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e023a0265af4a1d54840ae70d05",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048513a0265af4a1d54840ae70d05",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2733a0265af4a1d54840ae70d05",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "NUU",
-                  "uri": "spotify:album:7dzwwLaWEstgWDDygTgNap"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Ayrosh"
-                      },
-                      "uri": "spotify:artist:3eUpzhdVQkVaAKWn09Ka8l"
-                    },
-                    {
-                      "profile": {
-                        "name": "MURINGI"
-                      },
-                      "uri": "spotify:artist:7f2ru63Hc00D1hDwa4bBns"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 230765
-                },
-                "name": "NUU",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "147677",
-                "trackNumber": 1,
-                "uri": "spotify:track:1VadmopqvqCgZDzX5GVYJ1"
-              }
-            },
-            "uid": "9c4fb3cef058fe5a"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Nabiswa Wanyama"
-                        },
-                        "uri": "spotify:artist:5r0Cz6cb4RCwNqefK2KRgw"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024f6e741bb29e14823d62dcb7",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514f6e741bb29e14823d62dcb7",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734f6e741bb29e14823d62dcb7",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Shamba la Wanyama, Vol. 1",
-                  "uri": "spotify:album:3EOoUvwcji8zf84naFmfRY"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Nabiswa Wanyama"
-                      },
-                      "uri": "spotify:artist:5r0Cz6cb4RCwNqefK2KRgw"
-                    },
-                    {
-                      "profile": {
-                        "name": "Victoria Monet"
-                      },
-                      "uri": "spotify:artist:41bfRTTH5t8O5DcUxiBwr8"
-                    },
-                    {
-                      "profile": {
-                        "name": "Amapiano"
-                      },
-                      "uri": "spotify:artist:775UBj0IIE3N8GDyEkTpdl"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 224615
-                },
-                "name": "Pull Up on You - amapiano Remix",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "11520",
-                "trackNumber": 7,
-                "uri": "spotify:track:60dlILVDlCl4jqaZrWh70U"
-              }
-            },
-            "uid": "06f297df7928e49a"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Manasseh Shalom"
-                        },
-                        "uri": "spotify:artist:0l5DAChk60zrPxl18DGUT7"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e029c69285392f60faa58cb713e",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048519c69285392f60faa58cb713e",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2739c69285392f60faa58cb713e",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Kitungi3",
-                  "uri": "spotify:album:4ujJA3VcLqevpgUUlbQRz5"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Manasseh Shalom"
-                      },
-                      "uri": "spotify:artist:0l5DAChk60zrPxl18DGUT7"
-                    },
-                    {
-                      "profile": {
-                        "name": "Laka Waithaka"
-                      },
-                      "uri": "spotify:artist:2sJtxAAQO3YNvkHTMhMkee"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 244035
-                },
-                "name": "Safe",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "36097",
-                "trackNumber": 7,
-                "uri": "spotify:track:5iKDWbjS9MbiGdufK8EgNj"
-              }
-            },
-            "uid": "a7014d6478878375"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Waithaka"
-                        },
-                        "uri": "spotify:artist:5Ro7QwcAlsSBGQuv5FWTs4"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022af47e1146f0b187b9c87f6b",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512af47e1146f0b187b9c87f6b",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732af47e1146f0b187b9c87f6b",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Odes by Queens",
-                  "uri": "spotify:album:3eTbgi6s1WKIjSfDq5TJPh"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Waithaka"
-                      },
-                      "uri": "spotify:artist:5Ro7QwcAlsSBGQuv5FWTs4"
-                    },
-                    {
-                      "profile": {
-                        "name": "Wabi Sherie"
-                      },
-                      "uri": "spotify:artist:2dtXYbUEL1VbMjtOKpIBDO"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 225882
-                },
-                "name": "Ndi Waku",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "18379",
-                "trackNumber": 9,
-                "uri": "spotify:track:0yahZenDbEbbMksbDwdrJt"
-              }
-            },
-            "uid": "ab34de2c9e93bced"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Waithaka"
-                        },
-                        "uri": "spotify:artist:5Ro7QwcAlsSBGQuv5FWTs4"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022af47e1146f0b187b9c87f6b",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512af47e1146f0b187b9c87f6b",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732af47e1146f0b187b9c87f6b",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Odes by Queens",
-                  "uri": "spotify:album:3eTbgi6s1WKIjSfDq5TJPh"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Waithaka"
-                      },
-                      "uri": "spotify:artist:5Ro7QwcAlsSBGQuv5FWTs4"
-                    },
-                    {
-                      "profile": {
-                        "name": "Miss Kuria"
-                      },
-                      "uri": "spotify:artist:1S6ZwQApF4OfFpelqSepUi"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 215000
-                },
-                "name": "Kama Wee",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "38890",
-                "trackNumber": 5,
-                "uri": "spotify:track:78wPzvhmbDQfFce0lmntj7"
-              }
-            },
-            "uid": "ff2dee779cba5f8c"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Olivia Ambani"
-                        },
-                        "uri": "spotify:artist:2ZvuDMMGloNFnH6Bhm67jG"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0249bbcd315179b18038592b7a",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485149bbcd315179b18038592b7a",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27349bbcd315179b18038592b7a",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "The Awakening",
-                  "uri": "spotify:album:6WnV2kPJou5mPZpmnSLvx0"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Olivia Ambani"
-                      },
-                      "uri": "spotify:artist:2ZvuDMMGloNFnH6Bhm67jG"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 183962
-                },
-                "name": "Superhuman",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "13042",
-                "trackNumber": 5,
-                "uri": "spotify:track:5IjmDEuIPnGuZlAjJVnsPV"
-              }
-            },
-            "uid": "bc2325488f53a00d"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Billy Black"
-                        },
-                        "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02c1cdaa1120cd02421c2321d0",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851c1cdaa1120cd02421c2321d0",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273c1cdaa1120cd02421c2321d0",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Ambia",
-                  "uri": "spotify:album:6Wg6JpSlFn2VdeFFQj5xzn"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Billy Black"
-                      },
-                      "uri": "spotify:artist:6znLUPGYNDVG3VoMH5UXUU"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 136192
-                },
-                "name": "Ambia",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "225662",
-                "trackNumber": 1,
-                "uri": "spotify:track:5DTLXU7HQ9PhNm6w7l8eZa"
-              }
-            },
-            "uid": "5f663acb2eb1d91f"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Charisma"
-                        },
-                        "uri": "spotify:artist:34FqcraaOV85NJMLNb4JQu"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e026b7adc312006aab6ab932425",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048516b7adc312006aab6ab932425",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2736b7adc312006aab6ab932425",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "With Love, Charisma",
-                  "uri": "spotify:album:2LCkU3pqk7rcSgiRxqfzX2"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Charisma"
-                      },
-                      "uri": "spotify:artist:34FqcraaOV85NJMLNb4JQu"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 217263
-                },
-                "name": "Marry U Twice",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "182012",
-                "trackNumber": 1,
-                "uri": "spotify:track:66ZmaibBTStKi0iAG8B7Xu"
-              }
-            },
-            "uid": "5e90723775ad3c5f"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Matt Ngesa"
-                        },
-                        "uri": "spotify:artist:38jStfZwiNvdn1PKt9ma35"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e028c757c4f203b74f7a85b5360",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048518c757c4f203b74f7a85b5360",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2738c757c4f203b74f7a85b5360",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Problems",
-                  "uri": "spotify:album:6nuNAmZvBNuOMHdHCHKWNs"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Matt Ngesa"
-                      },
-                      "uri": "spotify:artist:38jStfZwiNvdn1PKt9ma35"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 249600
-                },
-                "name": "Problems",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "106460",
-                "trackNumber": 1,
-                "uri": "spotify:track:13Vo9Bfa1mdR7p3tZk3ues"
-              }
-            },
-            "uid": "cff5601928a1f71d"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "Kasajja"
-                        },
-                        "uri": "spotify:artist:1BNj3QPLIT1gLYcgb1hwVE"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0218d345b36dda1ac2ce03932a",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485118d345b36dda1ac2ce03932a",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27318d345b36dda1ac2ce03932a",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "Old Kanye West Type Beat",
-                  "uri": "spotify:album:6beRY8705xSQrPeT9uS9vR"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "Kasajja"
-                      },
-                      "uri": "spotify:artist:1BNj3QPLIT1gLYcgb1hwVE"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 135528
-                },
-                "name": "Old Kanye West Type Beat",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "1359",
-                "trackNumber": 1,
-                "uri": "spotify:track:2gh8fDs5hLVJhYIHajLMdE"
-              }
-            },
-            "uid": "302b21b94af908e7"
-          },
-          {
-            "addedAt": {
-              "isoString": "2023-07-26T12:10:23.902Z"
-            },
-            "addedBy": {
-              "data": {
-                "__typename": "User",
-                "avatar": null,
-                "name": "Kei En",
-                "uri": "spotify:user:31zcu6x6iafuu7voirsnmlqglo4m",
-                "username": "31zcu6x6iafuu7voirsnmlqglo4m"
-              }
-            },
-            "attributes": [],
-            "itemV2": {
-              "__typename": "TrackResponseWrapper",
-              "data": {
-                "__typename": "Track",
-                "albumOfTrack": {
-                  "artists": {
-                    "items": [
-                      {
-                        "profile": {
-                          "name": "KALI"
-                        },
-                        "uri": "spotify:artist:5uzHXxPGMAnDqKnBLLO0AI"
-                      }
-                    ]
-                  },
-                  "coverArt": {
-                    "sources": [
-                      {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024ba80315527b8466d324a5c8",
-                        "width": 300
-                      },
-                      {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514ba80315527b8466d324a5c8",
-                        "width": 64
-                      },
-                      {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734ba80315527b8466d324a5c8",
-                        "width": 640
-                      }
-                    ]
-                  },
-                  "name": "He's the One",
-                  "uri": "spotify:album:47LqdMhAWQ3ane53ZYcdv3"
-                },
-                "artists": {
-                  "items": [
-                    {
-                      "profile": {
-                        "name": "KALI"
-                      },
-                      "uri": "spotify:artist:5uzHXxPGMAnDqKnBLLO0AI"
-                    }
-                  ]
-                },
-                "associations": {
-                  "associatedVideos": {
-                    "totalCount": 0
-                  }
-                },
-                "contentRating": {
-                  "label": "NONE"
-                },
-                "discNumber": 1,
-                "trackDuration": {
-                  "totalMilliseconds": 174500
-                },
-                "name": "He's the One",
-                "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
-                },
-                "playcount": "98946",
-                "trackNumber": 1,
-                "uri": "spotify:track:08eue0fnVEjsPRhjhpOG9y"
-              }
-            },
-            "uid": "3e521790b03bb3f1"
           }
         ]
       }
