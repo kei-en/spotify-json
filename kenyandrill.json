@@ -143,7 +143,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "5040",
+                "playcount": "5908",
                 "trackNumber": 1,
                 "uri": "spotify:track:2RsrUg37OUG6fUETG1RSnM"
               }
@@ -234,7 +234,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "3679",
+                "playcount": "5406",
                 "trackNumber": 4,
                 "uri": "spotify:track:4XCoNMHFkx0BgcLLtEqoC5"
               }
@@ -319,7 +319,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "0",
+                "playcount": "1179",
                 "trackNumber": 3,
                 "uri": "spotify:track:2oqNcI6DLVLjPAzZjPxgsB"
               }
@@ -410,7 +410,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "121538",
+                "playcount": "173995",
                 "trackNumber": 18,
                 "uri": "spotify:track:3JJ3J3R91jEgz0mgBEwYj2"
               }
@@ -507,7 +507,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "73609",
+                "playcount": "88746",
                 "trackNumber": 1,
                 "uri": "spotify:track:4Un1nsStYwNyYAdP7rbxfd"
               }
@@ -604,7 +604,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "328623",
+                "playcount": "461493",
                 "trackNumber": 1,
                 "uri": "spotify:track:3yLgHCgibaREPaivKLUfUc"
               }
@@ -701,7 +701,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "11166",
+                "playcount": "11744",
                 "trackNumber": 1,
                 "uri": "spotify:track:16mm3Ff5z9O57NEVxAyoGn"
               }
@@ -798,7 +798,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "35400",
+                "playcount": "43686",
                 "trackNumber": 1,
                 "uri": "spotify:track:0uDl3s52h57l0addjFIbte"
               }
@@ -838,17 +838,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e027c128ed5b56391d0ff3447a2",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e5f5047cbb100f7a17a21eda",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048517c128ed5b56391d0ff3447a2",
+                        "url": "https://i.scdn.co/image/ab67616d00004851e5f5047cbb100f7a17a21eda",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2737c128ed5b56391d0ff3447a2",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e5f5047cbb100f7a17a21eda",
                         "width": 640
                       }
                     ]
@@ -883,7 +883,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "0",
+                "playcount": "1020",
                 "trackNumber": 1,
                 "uri": "spotify:track:0L5lGwdxyyhw1GHPuunKAJ"
               }
@@ -929,17 +929,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0213dc7a2d579ae6412e314844",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000485113dc7a2d579ae6412e314844",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27313dc7a2d579ae6412e314844",
                         "width": 640
                       }
                     ]
@@ -980,7 +980,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "16031",
+                "playcount": "20074",
                 "trackNumber": 6,
                 "uri": "spotify:track:7l2QHtJ11gahYqHk3XYWyW"
               }
@@ -1026,17 +1026,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0213dc7a2d579ae6412e314844",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000485113dc7a2d579ae6412e314844",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27313dc7a2d579ae6412e314844",
                         "width": 640
                       }
                     ]
@@ -1077,7 +1077,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "23444",
+                "playcount": "30533",
                 "trackNumber": 8,
                 "uri": "spotify:track:5mXmFAdoipSdoyjWlfy088"
               }
@@ -1174,7 +1174,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "223863",
+                "playcount": "273774",
                 "trackNumber": 1,
                 "uri": "spotify:track:36xONjijeZ6ye4ARFwQADT"
               }
@@ -1265,7 +1265,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1907",
+                "playcount": "2139",
                 "trackNumber": 10,
                 "uri": "spotify:track:7m3HFiDljr3mtjc0TQ2CjJ"
               }
@@ -1380,7 +1380,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "792964",
+                "playcount": "1220811",
                 "trackNumber": 1,
                 "uri": "spotify:track:6dsJk2F3gaCFmpHawBAg3t"
               }
@@ -1420,17 +1420,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fa074996df625ab5f902b215",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b6bd75284bf9617eeb8d1fca",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fa074996df625ab5f902b215",
+                        "url": "https://i.scdn.co/image/ab67616d00004851b6bd75284bf9617eeb8d1fca",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fa074996df625ab5f902b215",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b6bd75284bf9617eeb8d1fca",
                         "width": 640
                       }
                     ]
@@ -1462,10 +1462,10 @@
                 },
                 "name": "Feels",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "26956",
+                "playcount": "28705",
                 "trackNumber": 3,
                 "uri": "spotify:track:1EVC29tNIYMTFmxptoLTnX"
               }
@@ -1550,7 +1550,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "102629",
+                "playcount": "142321",
                 "trackNumber": 1,
                 "uri": "spotify:track:6MqRD3D7RDynTE5YN1TbHy"
               }
@@ -1641,7 +1641,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "40695",
+                "playcount": "53085",
                 "trackNumber": 1,
                 "uri": "spotify:track:655yVfQJekLD0agRFT3C9U"
               }
@@ -1726,7 +1726,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "112022",
+                "playcount": "147677",
                 "trackNumber": 1,
                 "uri": "spotify:track:3KbEnGE3BXeYr67QXCoUsQ"
               }
@@ -1817,7 +1817,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1756238",
+                "playcount": "2605472",
                 "trackNumber": 6,
                 "uri": "spotify:track:6YBG1RnrZfdEH5EvcWP4YF"
               }
@@ -1902,7 +1902,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1422267",
+                "playcount": "1872821",
                 "trackNumber": 8,
                 "uri": "spotify:track:5m2pH8V6bUOElNu9uQ53uU"
               }
@@ -1993,7 +1993,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "170764",
+                "playcount": "209542",
                 "trackNumber": 1,
                 "uri": "spotify:track:0fZ7AsmRpO9EYaUgT6kuvh"
               }
@@ -2087,10 +2087,10 @@
                 },
                 "name": "Options",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "2237",
+                "playcount": "2830",
                 "trackNumber": 4,
                 "uri": "spotify:track:3VJrtRDE37BJa8dBQiv5X6"
               }
@@ -2130,17 +2130,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0222c1ed97d012cffa22b03824",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ba5fa59cbc647ce25172f4c7",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485122c1ed97d012cffa22b03824",
+                        "url": "https://i.scdn.co/image/ab67616d00004851ba5fa59cbc647ce25172f4c7",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27322c1ed97d012cffa22b03824",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ba5fa59cbc647ce25172f4c7",
                         "width": 640
                       }
                     ]
@@ -2178,10 +2178,10 @@
                 },
                 "name": "Friday Night",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "26000",
+                "playcount": "27414",
                 "trackNumber": 6,
                 "uri": "spotify:track:2SXrV8qDkPh8QhKpvp29Hx"
               }
@@ -2275,10 +2275,10 @@
                 },
                 "name": "KILIPESA",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "7277",
+                "playcount": "7871",
                 "trackNumber": 1,
                 "uri": "spotify:track:00A3bHHQCJv00B8rRItbkh"
               }
@@ -2324,17 +2324,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0213dc7a2d579ae6412e314844",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000485113dc7a2d579ae6412e314844",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732e30998e24438b1f0520b0c5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27313dc7a2d579ae6412e314844",
                         "width": 640
                       }
                     ]
@@ -2375,13 +2375,14 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "21110",
+                "playcount": "27949",
                 "trackNumber": 3,
                 "uri": "spotify:track:77KjUscl1Ac9qlh4R4Kb5H"
               }
             },
             "uid": "55769579eea5659d"
           },
+
           {
             "addedAt": {
               "isoString": "2023-07-20T11:34:02.294Z"
@@ -2460,7 +2461,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "21221",
+                "playcount": "22179",
                 "trackNumber": 7,
                 "uri": "spotify:track:6eZYg6WMd0VwvMR5K2uwiI"
               }
@@ -2500,17 +2501,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0244049864f915c122b39b1f1e",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02797d3ede3cca89bc4a30b160",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485144049864f915c122b39b1f1e",
+                        "url": "https://i.scdn.co/image/ab67616d00004851797d3ede3cca89bc4a30b160",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27344049864f915c122b39b1f1e",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273797d3ede3cca89bc4a30b160",
                         "width": 640
                       }
                     ]
@@ -2648,7 +2649,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2206",
+                "playcount": "2649",
                 "trackNumber": 11,
                 "uri": "spotify:track:0EMoRUDrCi76wGTp7Xgfai"
               }
@@ -2688,17 +2689,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02065de91aa449dc29cbe80837",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0277c86135bfbd02673c2f6e19",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851065de91aa449dc29cbe80837",
+                        "url": "https://i.scdn.co/image/ab67616d0000485177c86135bfbd02673c2f6e19",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273065de91aa449dc29cbe80837",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27377c86135bfbd02673c2f6e19",
                         "width": 640
                       }
                     ]
@@ -2739,7 +2740,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "26413",
+                "playcount": "29024",
                 "trackNumber": 4,
                 "uri": "spotify:track:1LftP0CwtuKGk98G0kB8S6"
               }
@@ -2830,7 +2831,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "17200",
+                "playcount": "17914",
                 "trackNumber": 1,
                 "uri": "spotify:track:5iMw8GaqHxk88HD4Ix1udK"
               }
@@ -2921,7 +2922,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1459",
+                "playcount": "1693",
                 "trackNumber": 1,
                 "uri": "spotify:track:0Kjyci5AhjGjB1FxqPbe7N"
               }
@@ -3012,7 +3013,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "95856",
+                "playcount": "111283",
                 "trackNumber": 1,
                 "uri": "spotify:track:4zKpiGVMuGqiBWiPPu0vwh"
               }
@@ -3052,17 +3053,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0220b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b75047cfa436753a0a7c7e0b",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485120b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00004851b75047cfa436753a0a7c7e0b",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27320b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b75047cfa436753a0a7c7e0b",
                         "width": 640
                       }
                     ]
@@ -3106,10 +3107,10 @@
                 },
                 "name": "Ouu - Special Version",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "14642",
+                "playcount": "16022",
                 "trackNumber": 4,
                 "uri": "spotify:track:39u6jO6oqR6NlTu3R3xxSp"
               }
@@ -3149,17 +3150,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0220b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b75047cfa436753a0a7c7e0b",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485120b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00004851b75047cfa436753a0a7c7e0b",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27320b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b75047cfa436753a0a7c7e0b",
                         "width": 640
                       }
                     ]
@@ -3209,10 +3210,10 @@
                 },
                 "name": "Rada Ni Gani",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "6656",
+                "playcount": "7148",
                 "trackNumber": 2,
                 "uri": "spotify:track:09OiGwCUnAQW1iczGV0zdO"
               }
@@ -3252,17 +3253,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0220b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b75047cfa436753a0a7c7e0b",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485120b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d00004851b75047cfa436753a0a7c7e0b",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27320b1f3f1dbf9a621ecb1f9b5",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b75047cfa436753a0a7c7e0b",
                         "width": 640
                       }
                     ]
@@ -3312,10 +3313,10 @@
                 },
                 "name": "Chef",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "5810",
+                "playcount": "6235",
                 "trackNumber": 1,
                 "uri": "spotify:track:1v2vw1NjNHXtefZZSdZNOR"
               }
@@ -3418,7 +3419,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "22418",
+                "playcount": "24498",
                 "trackNumber": 2,
                 "uri": "spotify:track:5Yr7Rn03gffFhiQZHuTNSl"
               }
@@ -3503,7 +3504,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "8437",
+                "playcount": "9187",
                 "trackNumber": 8,
                 "uri": "spotify:track:1nOsVaUzb5bEyRixrmJflI"
               }
@@ -3588,7 +3589,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "22956",
+                "playcount": "25532",
                 "trackNumber": 15,
                 "uri": "spotify:track:4kbl8xv3C8DOd4JSefbZMO"
               }
@@ -3673,7 +3674,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "94368",
+                "playcount": "98498",
                 "trackNumber": 1,
                 "uri": "spotify:track:2324gRLunhAVRrSXqKN6y2"
               }
@@ -3770,7 +3771,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "4340",
+                "playcount": "4803",
                 "trackNumber": 1,
                 "uri": "spotify:track:4gN2X2P414aEhBRTwIgWdU"
               }
@@ -3867,7 +3868,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "5084",
+                "playcount": "5500",
                 "trackNumber": 2,
                 "uri": "spotify:track:5OnTkrfQP1NUVxFA8N2GWt"
               }
@@ -3958,7 +3959,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "58018",
+                "playcount": "73794",
                 "trackNumber": 4,
                 "uri": "spotify:track:2ckWMu9ODYF71Qf9pXsAQP"
               }
@@ -4061,7 +4062,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1970370",
+                "playcount": "2190073",
                 "trackNumber": 4,
                 "uri": "spotify:track:3mMCfqlXkDzH8jE9mjIu7d"
               }
@@ -4149,10 +4150,10 @@
                 },
                 "name": "Pengting",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "11896",
+                "playcount": "13040",
                 "trackNumber": 2,
                 "uri": "spotify:track:68eq9XvjsBQTvlWpU3B6gX"
               }
@@ -4246,10 +4247,10 @@
                 },
                 "name": "Riverside Walk",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "8199",
+                "playcount": "9064",
                 "trackNumber": 3,
                 "uri": "spotify:track:2BjsG1vZnDWoFCWz9JMUeS"
               }
@@ -4334,7 +4335,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "257620",
+                "playcount": "333433",
                 "trackNumber": 1,
                 "uri": "spotify:track:1I4nzVk5bFB7AERUbmS9xa"
               }
@@ -4437,7 +4438,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "67222",
+                "playcount": "86256",
                 "trackNumber": 1,
                 "uri": "spotify:track:08SpP2TEi8Q5AkrKKSFpEY"
               }
@@ -4477,17 +4478,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e027f57811dd7113a276d760a7a",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ad089808ef17b03b72635363",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048517f57811dd7113a276d760a7a",
+                        "url": "https://i.scdn.co/image/ab67616d00004851ad089808ef17b03b72635363",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2737f57811dd7113a276d760a7a",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ad089808ef17b03b72635363",
                         "width": 640
                       }
                     ]
@@ -4522,7 +4523,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "4608",
+                "playcount": "4823",
                 "trackNumber": 1,
                 "uri": "spotify:track:0Eeui2sBrzvejbCLRtBgjJ"
               }
@@ -4607,7 +4608,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "35746",
+                "playcount": "43377",
                 "trackNumber": 1,
                 "uri": "spotify:track:2cGhXo6YJkSJQa4lSvSlyq"
               }
@@ -4692,7 +4693,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "24699",
+                "playcount": "28841",
                 "trackNumber": 2,
                 "uri": "spotify:track:6Y59x4uoYUMLr4tmrcVCvr"
               }
@@ -4777,7 +4778,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "56068",
+                "playcount": "59424",
                 "trackNumber": 1,
                 "uri": "spotify:track:6Q6kYIswY2WW59vxdVSJ00"
               }
@@ -4862,7 +4863,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "15388",
+                "playcount": "25951",
                 "trackNumber": 1,
                 "uri": "spotify:track:0wDgKHgtOmWA6GyWIgRxch"
               }
@@ -4947,7 +4948,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1280127",
+                "playcount": "1479662",
                 "trackNumber": 15,
                 "uri": "spotify:track:0dk1HdfPDYPflddHXFKc8h"
               }
@@ -4987,17 +4988,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02cfce315cf6d095e7af7400ae",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c3ee37a0406662ab3adb5cab",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851cfce315cf6d095e7af7400ae",
+                        "url": "https://i.scdn.co/image/ab67616d00004851c3ee37a0406662ab3adb5cab",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273cfce315cf6d095e7af7400ae",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c3ee37a0406662ab3adb5cab",
                         "width": 640
                       }
                     ]
@@ -5025,14 +5026,14 @@
                 },
                 "discNumber": 1,
                 "trackDuration": {
-                  "totalMilliseconds": 138971
+                  "totalMilliseconds": 138997
                 },
                 "name": "Urus",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "59391",
+                "playcount": "60632",
                 "trackNumber": 1,
                 "uri": "spotify:track:5R8EADRiYNgzs3Gk8UuATJ"
               }
@@ -5117,7 +5118,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1378",
+                "playcount": "1516",
                 "trackNumber": 2,
                 "uri": "spotify:track:6rhSLgpZOHNx7jguDqqJat"
               }
@@ -5214,7 +5215,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "90345",
+                "playcount": "112242",
                 "trackNumber": 1,
                 "uri": "spotify:track:1OIJqrmq1zwsrImcEWCO1Q"
               }
@@ -5244,9 +5245,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "GERI SOWETO"
+                          "name": "Geri Soweto"
                         },
-                        "uri": "spotify:artist:4UM8h5BkNwNxWi5bBF98eG"
+                        "uri": "spotify:artist:6KsFn6wLblIwLr0ATRJvTF"
                       }
                     ]
                   },
@@ -5276,9 +5277,9 @@
                   "items": [
                     {
                       "profile": {
-                        "name": "GERI SOWETO"
+                        "name": "Geri Soweto"
                       },
-                      "uri": "spotify:artist:4UM8h5BkNwNxWi5bBF98eG"
+                      "uri": "spotify:artist:6KsFn6wLblIwLr0ATRJvTF"
                     }
                   ]
                 },
@@ -5299,7 +5300,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "4290",
+                "playcount": "4795",
                 "trackNumber": 1,
                 "uri": "spotify:track:4rwAvP3sNSN315yRXGlagr"
               }
@@ -5402,7 +5403,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "6801",
+                "playcount": "7556",
                 "trackNumber": 1,
                 "uri": "spotify:track:4JDRWRvZY2ZooDNnnfJAE7"
               }
@@ -5487,7 +5488,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "345066",
+                "playcount": "386691",
                 "trackNumber": 1,
                 "uri": "spotify:track:4fqmqu8fnvGaQkJkqbbnYC"
               }
@@ -5527,17 +5528,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02626c463ae93b18f5767f51a6",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0214d5a8c6636011614fb45a9f",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851626c463ae93b18f5767f51a6",
+                        "url": "https://i.scdn.co/image/ab67616d0000485114d5a8c6636011614fb45a9f",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273626c463ae93b18f5767f51a6",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27314d5a8c6636011614fb45a9f",
                         "width": 640
                       }
                     ]
@@ -5575,10 +5576,10 @@
                 },
                 "name": "Rhymez",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "17807",
+                "playcount": "18346",
                 "trackNumber": 5,
                 "uri": "spotify:track:09l0EBQknH29Se38MnTYcW"
               }
@@ -5675,7 +5676,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "215032",
+                "playcount": "248208",
                 "trackNumber": 1,
                 "uri": "spotify:track:16NI7LQZHwy3Xvw6vTELxE"
               }
@@ -5766,7 +5767,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "19138",
+                "playcount": "20979",
                 "trackNumber": 1,
                 "uri": "spotify:track:06y8dBQqLdR1WD14YqzSYf"
               }
@@ -5936,7 +5937,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2838",
+                "playcount": "3910",
                 "trackNumber": 6,
                 "uri": "spotify:track:26tPBhVknFyGObqQJZD1Rd"
               }
@@ -6045,7 +6046,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "76087",
+                "playcount": "88274",
                 "trackNumber": 1,
                 "uri": "spotify:track:24JoXY5sRcWGBU6a0hRBNp"
               }
@@ -6130,7 +6131,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "44472",
+                "playcount": "68789",
                 "trackNumber": 1,
                 "uri": "spotify:track:0Wzc9pfGIYfSjANw1DYmX8"
               }
@@ -6215,7 +6216,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1072",
+                "playcount": "1103",
                 "trackNumber": 1,
                 "uri": "spotify:track:3XjMehy5hFCQmoNH8lKZaM"
               }
@@ -6321,10 +6322,10 @@
                 },
                 "name": "Kenya Sihami",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "123779",
+                "playcount": "129403",
                 "trackNumber": 1,
                 "uri": "spotify:track:2yZ80sK7l3HSH19J3Gpgqw"
               }
@@ -6364,17 +6365,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02723915f7ff7de315301537ca",
+                        "url": "https://i.scdn.co/image/ab67616d00001e020fc0fcab6cfa0c6acc641e4f",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851723915f7ff7de315301537ca",
+                        "url": "https://i.scdn.co/image/ab67616d000048510fc0fcab6cfa0c6acc641e4f",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273723915f7ff7de315301537ca",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730fc0fcab6cfa0c6acc641e4f",
                         "width": 640
                       }
                     ]
@@ -6402,14 +6403,14 @@
                 },
                 "discNumber": 1,
                 "trackDuration": {
-                  "totalMilliseconds": 171964
+                  "totalMilliseconds": 171990
                 },
                 "name": "Staki Kubonga",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "34880",
+                "playcount": "37045",
                 "trackNumber": 2,
                 "uri": "spotify:track:3fltQAQTORxzXIyBa6BJcM"
               }
@@ -6506,7 +6507,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "13918",
+                "playcount": "14702",
                 "trackNumber": 4,
                 "uri": "spotify:track:6s4lhifbev5bC9seR2AAiO"
               }
@@ -6603,7 +6604,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "47021",
+                "playcount": "55926",
                 "trackNumber": 5,
                 "uri": "spotify:track:4gr9wIhryKGwpgh0QvUJMY"
               }
@@ -6694,7 +6695,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "163978",
+                "playcount": "194915",
                 "trackNumber": 6,
                 "uri": "spotify:track:77XWAoJYnYDfsqHrxR0IV6"
               }
@@ -6785,7 +6786,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "92494",
+                "playcount": "98841",
                 "trackNumber": 1,
                 "uri": "spotify:track:70si0c3jSdnV4satHBwB55"
               }
@@ -6961,7 +6962,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "54717",
+                "playcount": "60127",
                 "trackNumber": 1,
                 "uri": "spotify:track:12ptoY7Q0Nh2P2YKBiEIkb"
               }
@@ -7161,7 +7162,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "146120",
+                "playcount": "216059",
                 "trackNumber": 3,
                 "uri": "spotify:track:5ajbCAtfgKeCYoSTkLcY9c"
               }
@@ -7237,7 +7238,7 @@
                       "profile": {
                         "name": "Sadhguru"
                       },
-                      "uri": "spotify:artist:2fi04IcBn7U6oiIS640kls"
+                      "uri": "spotify:artist:0CteJRIOVQm5VBVoGpSgz8"
                     }
                   ]
                 },
@@ -7258,7 +7259,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2326",
+                "playcount": "2508",
                 "trackNumber": 10,
                 "uri": "spotify:track:0yhQQymH0Tl7N0bCmWQrjW"
               }
@@ -7343,7 +7344,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "183594",
+                "playcount": "202984",
                 "trackNumber": 1,
                 "uri": "spotify:track:23HwSpKdGiXR9wYFAMHPZ6"
               }
@@ -7425,10 +7426,10 @@
                 },
                 "name": "Cheki",
                 "playability": {
-                  "playable": true,
-                  "reason": "PLAYABLE"
+                  "playable": false,
+                  "reason": "COUNTRY_RESTRICTED"
                 },
-                "playcount": "31710",
+                "playcount": "32989",
                 "trackNumber": 1,
                 "uri": "spotify:track:5mqMzBmrUk3vZqrfSNtHPP"
               }
@@ -7513,7 +7514,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "56685",
+                "playcount": "61717",
                 "trackNumber": 1,
                 "uri": "spotify:track:1oQ3Vid4sV8SiXl92SHIVV"
               }
@@ -7604,7 +7605,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "250005",
+                "playcount": "303146",
                 "trackNumber": 1,
                 "uri": "spotify:track:7imeMSOTLPPegfN7GtqPPZ"
               }
@@ -7689,7 +7690,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "158913",
+                "playcount": "201500",
                 "trackNumber": 1,
                 "uri": "spotify:track:23xpIfV6d5IGlwby3Se2vk"
               }
@@ -7719,9 +7720,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "Steph"
+                          "name": "Steph Unruly"
                         },
-                        "uri": "spotify:artist:7noY4JrCn1YjpKEobbIo6C"
+                        "uri": "spotify:artist:5FM4NngVe3SLdUlrZWaHcm"
                       }
                     ]
                   },
@@ -7751,9 +7752,9 @@
                   "items": [
                     {
                       "profile": {
-                        "name": "Steph"
+                        "name": "Steph Unruly"
                       },
-                      "uri": "spotify:artist:7noY4JrCn1YjpKEobbIo6C"
+                      "uri": "spotify:artist:5FM4NngVe3SLdUlrZWaHcm"
                     },
                     {
                       "profile": {
@@ -7786,7 +7787,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "10300",
+                "playcount": "10804",
                 "trackNumber": 3,
                 "uri": "spotify:track:2f6MRFZ4GIwBFcSD6CL511"
               }
@@ -7826,17 +7827,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02e2c78c2703d718e248f7d33f",
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cc219bc97aa1c7823fb2f550",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851e2c78c2703d718e248f7d33f",
+                        "url": "https://i.scdn.co/image/ab67616d00004851cc219bc97aa1c7823fb2f550",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273e2c78c2703d718e248f7d33f",
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cc219bc97aa1c7823fb2f550",
                         "width": 640
                       }
                     ]
@@ -7870,14 +7871,14 @@
                 },
                 "discNumber": 1,
                 "trackDuration": {
-                  "totalMilliseconds": 238315
+                  "totalMilliseconds": 238341
                 },
                 "name": "Form",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "42295",
+                "playcount": "43157",
                 "trackNumber": 1,
                 "uri": "spotify:track:6iV53u3M6jXbzEfYYjSSna"
               }
@@ -7917,17 +7918,17 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e025de7869ef2ce442224b4f56f",
+                        "url": "https://i.scdn.co/image/ab67616d00001e021b400b856444e1b7129cfdd6",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048515de7869ef2ce442224b4f56f",
+                        "url": "https://i.scdn.co/image/ab67616d000048511b400b856444e1b7129cfdd6",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2735de7869ef2ce442224b4f56f",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731b400b856444e1b7129cfdd6",
                         "width": 640
                       }
                     ]
@@ -7965,10 +7966,10 @@
                 },
                 "name": "Gawa",
                 "playability": {
-                  "playable": false,
-                  "reason": "COUNTRY_RESTRICTED"
+                  "playable": true,
+                  "reason": "PLAYABLE"
                 },
-                "playcount": "26701",
+                "playcount": "27451",
                 "trackNumber": 1,
                 "uri": "spotify:track:1wNNLQZsbcNcdDAyGFjsYW"
               }
@@ -8053,7 +8054,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "4035",
+                "playcount": "4604",
                 "trackNumber": 3,
                 "uri": "spotify:track:1ucMYezmEkqy33GNQpBAH1"
               }
@@ -8162,7 +8163,7 @@
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "2362263",
+                "playcount": "2487043",
                 "trackNumber": 1,
                 "uri": "spotify:track:1hNr4FFFSuyOUSK7OgvMwl"
               }
