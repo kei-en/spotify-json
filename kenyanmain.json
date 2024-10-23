@@ -6966,7 +6966,7 @@
           },
           {
             "addedAt": {
-              "isoString": "2024-10-23T07:13:49.388Z"
+              "isoString": "2024-10-23T08:16:13.952Z"
             },
             "addedBy": {
               "data": {
@@ -6987,9 +6987,9 @@
                     "items": [
                       {
                         "profile": {
-                          "name": "Djo"
+                          "name": "Nyashinski"
                         },
-                        "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+                        "uri": "spotify:artist:7KY9NaOVRmptl8vlpVomi6"
                       }
                     ]
                   },
@@ -6997,31 +6997,31 @@
                     "sources": [
                       {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e02fddfffec51b4580acae727c1",
+                        "url": "https://i.scdn.co/image/ab67616d00001e021b55a639592939ff8a5758ea",
                         "width": 300
                       },
                       {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d00004851fddfffec51b4580acae727c1",
+                        "url": "https://i.scdn.co/image/ab67616d000048511b55a639592939ff8a5758ea",
                         "width": 64
                       },
                       {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731b55a639592939ff8a5758ea",
                         "width": 640
                       }
                     ]
                   },
-                  "name": "DECIDE",
-                  "uri": "spotify:album:4JDXBZdRPId4devseaAOKH"
+                  "name": "To Whom It May Concern",
+                  "uri": "spotify:album:4QlwqxdrSVolU2dcaHzfx9"
                 },
                 "artists": {
                   "items": [
                     {
                       "profile": {
-                        "name": "Djo"
+                        "name": "Nyashinski"
                       },
-                      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+                      "uri": "spotify:artist:7KY9NaOVRmptl8vlpVomi6"
                     }
                   ]
                 },
@@ -7031,23 +7031,23 @@
                   }
                 },
                 "contentRating": {
-                  "label": "NONE"
+                  "label": "EXPLICIT"
                 },
                 "discNumber": 1,
                 "trackDuration": {
-                  "totalMilliseconds": 159245
+                  "totalMilliseconds": 210000
                 },
-                "name": "End of Beginning",
+                "name": "1 of 1",
                 "playability": {
                   "playable": true,
                   "reason": "PLAYABLE"
                 },
-                "playcount": "1091657693",
-                "trackNumber": 6,
-                "uri": "spotify:track:3qhlB30KknSejmIvZZLjOD"
+                "playcount": "149084",
+                "trackNumber": 1,
+                "uri": "spotify:track:6hDTK2zfY3dL6K1GFRBR22"
               }
             },
-            "uid": "b79ce7f3268b1d52"
+            "uid": "3bdc26305f43f024"
           },
           {
             "addedAt": {
